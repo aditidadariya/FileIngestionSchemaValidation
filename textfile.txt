@@ -1,0 +1,6 @@
+Total time taken for Pandas to read the file is: 0:03:06.738432
+The dataset has Rows 31251483 and Columns 11 
+Total time taken for Dask to read the file is: 0:00:00.185797
+Total time taken for Datatable to read the file is: 0:01:07.476718
+Total time taken for Modin to read the file is: 0:05:23.086914
+The size of the file is 2.7720229495316744 GB
